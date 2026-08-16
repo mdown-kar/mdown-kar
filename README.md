@@ -1,16 +1,44 @@
-## Hi there 👋
+## Karmoum Mahmoud
 
-<!--
-**mdown-kar/mdown-kar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer — Laravel, React, MySQL. Based in Tangier, Morocco.
 
-Here are some ideas to get you started:
+I build SaaS products for schools and training centers. Currently focused on
+multi-tenant architecture and deploying Laravel applications on Linux servers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Products
+
+**[OptiNow](https://optinow.me/)** — School management platform, in production.
+Laravel · MySQL · Tailwind · deployed on DigitalOcean
+
+**[Markazi](https://mark-azi.app/)** — Multi-tenant SaaS for private training
+centers. Currently in pilot with centers in Tangier.
+Laravel · MySQL · multi-tenant (shared schema)
+
+**[Charles Dickens Language School](https://demo-charledickens.netlify.app/)** —
+E-learning platform for a children's language school, with video delivery.
+Laravel · Bunny Stream
+
+> Source code for client products is private. Happy to walk through the
+> architecture and technical decisions in an interview.
+
+---
+
+### Stack
+
+**Backend** PHP · Laravel · Node.js · MySQL · MongoDB
+**Frontend** JavaScript · React · Redux · Tailwind CSS
+**Infra** Linux · Nginx · DigitalOcean · Git
+
+---
+
+### Background
+
+Technicien Spécialisé — Digital Development, Web Full Stack (OFPPT, 2026)
+Technicien Spécialisé — Computer Network Techniques (OFPPT, 2013)
+
+---
+
+📍 Tangier, Morocco · 🌐 [Portfolio](https://mdown-kar.github.io)
+· 💼 [LinkedIn](https://linkedin.com/in/mahmoud-karmoum)
